@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://universalweb.io">UNIVERSAL WEB (UW)</a><br /><small><small>WHITE PAPER</small></small></h1>
+<h1 align="center"><a href="https://universalweb.io">UNIVERSAL WEB (UW)</a><br /><small><small>LIBRO BIANCO</small></small></h1>
 <h5 align="center">| <a href="https://twitter.com/tommarchi">Thomas Marchi</a> | <a href="https://twitter.com/MattKarasiewicz">Matt Karasiewicz</a> |</h5>
 <hr />
 <h4 align="center"><a href="https://sentivate.com">SENTIVATE</a></h4>
@@ -7,7 +7,7 @@
 </p>
 <h5 align="center">| <a href="https://twitter.com/sentivate">TWITTER</a> | <a href="https://t.me/sentivate">TELEGRAM</a> | <a href="https://discord.com/invite/jChPfgN">DISCORD</a> |</h5>
 <hr />
-<h2 align="center">INTRODUCTION</h2>
+<h2 align="center">INTRODUZIONE</h2>
 <br />
 <h4>DEFINITIONS</h4><br />
 <p><b>UNIVERSAL WEB REPUBLIC <small><i>(UWR)</i></small></b>: The UWR consists of the Universal Web's Government, Viat, & the Universal Web itself which is the plane that all activity governed by the Universal Web's Government resides. The UWR provides a democratic societal framework for the people of the Universal Web.</p><br />
