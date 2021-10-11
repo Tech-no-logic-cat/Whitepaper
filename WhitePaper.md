@@ -10,7 +10,7 @@
 <h2 align="center">INTRODUZIONE</h2>
 <br />
 <h4>DEFINIZIONI</h4><br />
-<p><b>UNIVERSAL WEB REPUBLIC <small><i>(UWR)</i></small></b>: La Repubblica di Universal Web (UWR) è composta del governo dell'Universal Web, da Viat e dall'Universal Web che è il piano su cui risiede tutta l'attività gestita dal governo dell'Universal Web. L'UWR fornisce un ambiente sociale democratico per le persone del Web universale.</p><br />
+<p><b>UNIVERSAL WEB REPUBLIC <small><i>(UWR)</i></small></b>: La Repubblica di Universal Web (UWR) è composta del governo dell'Universal Web, da Viat e dall'Universal Web che è il piano su cui risiede tutta l'attività gestita dal governo dell'Universal Web. UWR fornisce un ambiente sociale democratico per le persone del Web universale.</p><br />
 
 <p><a href="https://universalWeb.io"><b>UNIVERSAL WEB <small><i>(UW)</i></small></b></a>: The UW is the Web re-imagined. A new Web built to in time replace the old. A culmination of years of Web technology evolution, modern demands, future needs, and past failures all used to redesign the Web. The UW holds a similar centralized design as the WWW while incorporating decentralized components for each of its core functions and beyond. Focused on being realistic, </p><br />
 
