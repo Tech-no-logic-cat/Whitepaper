@@ -16,14 +16,14 @@
 
 <p><a href="https://sentivate.com"><b>SENTIVATE <small><i>(SNTVT)</i></small></b></a>: Sentivate è il nome del progetto, dell'iniziativa e del movimento che sta dietro a tutto ciò che è l'UWR. Sentivate dal punto di vista dello sviluppo consiste di due reti principali, Universal Web e Viat. Riguarda principalmente la criptovaluta e gli aspetti Web del progetto.</p><br />
 
-<p><b>VIAT</b>: Viat is the native decentralized cryptocurrency on the UW and is tightly & efficiently integrated into the UW's core components. Viat also has centralized components that provide more robust features & security. Some of those security features are transaction security, theft recovery, loss recovery, access recovery, wallet migration, wallet lockdown, asset lockdown, and transaction halting/cancelation/reversal. One of the centralized features of Viat provides cheap instant transactions. Viat offers deletions, blockchain compression, and updates which allows it to self-optimize over time.</p>
+<p><b>VIAT</b>: Viat è la criptovaluta decentralizzata nativa dell'UW ed è strettamente ed efficientemente integrata nei suoi componenti principali dell'UW. Viat ha anche componenti centralizzati che forniscono funzionalità e sicurezza più robuste tra le quali citiamo la sicurezza delle transazioni, il recupero dal furto, il recupero dalle perdite, il recupero dell'accesso, la migrazione del portafoglio, il blocco del portafoglio, il blocco delle risorse e l'interruzione/cancellazione/annullamento della transazione nonchè transazioni istantanee economiche ed in alcuni casi gratuite. Viat offre anche eliminazioni, comptressione della blockchain e aggiornamenti che gli consentono di auto-ottimizzarsi nel tempo.</p>
 
 <hr />
 
-<h3>THE UNIVERSAL WEB (UW)</h3>
-<p>The Universal Web is the Web re-imagined. We have come to expect much of the Web from features it never had, weren't intended to have, and to a scale far beyond what it was initially designed for. The UW is built to be a viable & realistic replacement for the modern Web in every way and then some.</p>
+<h3>UNIVERSAL WEB (UW)</h3>
+<p>L'Universal Web è il Web re-inventato. Siamo arrivati a pretendere molto dal Web attuale, utilizziamo funzionalità che non ha mai avuto, che non doveva avere e su una scala ben oltre quella per cui è stato inizialmente progettato. L'UW è costruito per essere il sostituto praticabile e realistico per il Web moderno in ogni suo aspetto.</p>
 
-<p>The UW addresses the following issues directly: <a href="#bandwidthCrisis">bandwidth crisis</a>, <a href="#outdatedProtocols">outdated Web protocols (HTTP/DNS)</a>, identity, accountability, privacy, security, passwordless, DDOS, <a href="#viat">cryptocurrency</a>, crowdfunding, e-commerce, <a href="#UWAs">Web App Development</a>, blockchain, decentralization, Web architecture, Domains, and Web categorization.</p>
+<p>UniversalWeb affronta direttamente i seguenti problemi: <a href="#bandwidthCrisis">crisi dell'ampiezza di banda (en)</a>, <a href="#outdatedProtocols">protocolli Web obsoleti (HTTP/DNS)</a>, identità, responsabilità, privacy, sicurezza, passwordless, DDOS, <a href="#viat">cryptocurrency</a>, crowdfunding, e-commerce, <a href="#UWAs">Sviluppo web App (en)</a>, blockchain, decentralizzazione, architettura e categorizzazione del Web, Domini.</p>
 
 <p>At present, we find ourselves continuing to utilize a ruinous medium of interconnected communication on a global scale. Humanity’s demands are exponentially increasing of which the World Wide Web simply can’t meet. As we continue to grow, evolve, and venture beyond the solar system, our imperative task becomes revolutionizing the technology we depend on.</p>
 
