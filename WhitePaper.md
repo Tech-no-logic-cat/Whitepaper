@@ -36,7 +36,7 @@
 
 <p>Avevamo previsto che questa crisi sarebbe occorsa giá prima dell'avvento del COVID. COVID ha dimostrato che il Web é giá vicino ad un punto di rottura dato dal massiccio utilizzo di Internet da parte degli utenti. COVID ha dimostrato che la crisi dell'ampiezza di banda é molto reale e giusto dietro l'angolo. Questo lo stiamo affermando fin dai suoi inizi.</p>
 
-<p>Quello che noi stiamo costruendo é l'unica vera opzione rimasta per evitare la stagnazione economica, linee veloci, prioritizzazione dei dati, velocitá molto basse e coti molto alti. Provate ad immaginare una nazione del mondo evoluto con un sistema di classe basato sull'accesso al Web. Ad alcuni sará garantito l'accesso al Web veloce mentre altri saranno obbligati a pagare costi altissimi o sopportare accessi estremamente limitati. L'economia, il mercato, il governo e la societá stanno diventando sempre piú dipendenti da un Web veloce, econ9mico e aperto. Ogni limitazione al suo accesso potrebbe essere disastrosa per l'utente medio.</p>
+<p>Quello che noi stiamo costruendo é l'unica vera opzione rimasta per evitare la stagnazione economica, linee veloci, prioritizzazione dei dati, velocitá molto basse e costi molto alti. Provate ad immaginare una nazione del mondo evoluto con un sistema di classe basato sull'accesso al Web. Ad alcuni sará garantito l'accesso al Web veloce mentre altri saranno obbligati a pagare costi altissimi o sopportare accessi estremamente limitati. L'economia, il mercato, il governo e la societá stanno diventando sempre piú dipendenti da un Web veloce, economico e aperto. Ogni limitazione al suo accesso potrebbe essere disastrosa per l'utente medio.</p>
 
 <h6>SOURCES</h6>
 <ul>
