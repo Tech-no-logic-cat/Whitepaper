@@ -23,7 +23,7 @@
 <h3>UNIVERSAL WEB (UW)</h3>
 <p>L'Universal Web è il Web re-inventato. Siamo arrivati a pretendere molto dal Web attuale, utilizziamo funzionalità che non ha mai avuto, che non doveva avere e su una scala ben oltre quella per cui è stato inizialmente progettato. L'UW è costruito per essere il sostituto praticabile e realistico per il Web moderno in ogni suo aspetto.</p>
 
-<p>UniversalWeb affronta direttamente i seguenti problemi: <a href="#bandwidthCrisis">crisi dell'ampiezza di banda (en)</a>, <a href="#outdatedProtocols">protocolli Web obsoleti (HTTP/DNS)</a>, identità, responsabilità, privacy, sicurezza, passwordless, DDOS, <a href="#viat">criptovalute</a>, crowdfunding, e-commerce, <a href="#UWAs">Sviluppo web App (en)</a>, blockchain, decentralizzazione, architettura e categorizzazione del Web, domini.</p>
+<p>UniversalWeb affronta direttamente i seguenti problemi: <a href="#bandwidthCrisis">crisi dell'ampiezza di banda (en)</a>, <a href="#outdatedProtocols">protocolli Web obsoleti (HTTP/DNS)</a>, identità, responsabilità, privacy, sicurezza, autenticazione, DDOS, <a href="#viat">criptovalute</a>, crowdfunding, e-commerce, <a href="#UWAs">Sviluppo web App (en)</a>, blockchain, decentralizzazione, architettura e categorizzazione del Web, domini.</p>
 
 <p>Attualmente ci ritroviamo ad usare un disastrato sistema di comunicazione interconnessa su scala globale. Le richieste dell'umanità stanno aumentando esponenzialmente e il World Wide Web semplicemente non può soddisfarle. Mentre continuiamo a crescere, evolverci e avventurarci oltre il sistema solare, il nostro compito imperativo diventa rivoluzionare la tecnologia da cui dipendiamo.</p>
 
