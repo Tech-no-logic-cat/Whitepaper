@@ -38,7 +38,7 @@
 
 <p>Quello che noi stiamo costruendo é l'unica vera opzione rimasta per evitare la stagnazione economica, linee veloci, prioritizzazione dei dati, velocitá molto basse e costi molto alti. Provate ad immaginare una nazione del mondo evoluto con un sistema di classe basato sull'accesso al Web. Ad alcuni sará garantito l'accesso al Web veloce mentre altri saranno obbligati a pagare costi altissimi o sopportare accessi estremamente limitati. L'economia, il mercato, il governo e la societá stanno diventando sempre piú dipendenti da un Web veloce, economico e aperto. Ogni limitazione al suo accesso potrebbe essere disastrosa per l'utente medio.</p>
 
-<h6>SOURCES</h6>
+<h6>RISORSE</h6>
 <ul>
     <li>
         <a href="https://www.foxnews.com/story/experts-warn-internet-is-running-out-of-bandwidth">Experts Warn Internet Is Running Out of Bandwidth</a>
