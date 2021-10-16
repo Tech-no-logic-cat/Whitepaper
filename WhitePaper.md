@@ -105,10 +105,10 @@
 <p>Sappiamo che l'economia globale richiede un web performante e poco costoso. Se un Web esclusivamente decentralizzato sostituisse il Web moderno, accelererebbe la crisi della larghezza di banda e ci porterebbe a un Web distopico. Il termine Web 3.0 non è una sfera magica, un'idea rivoluzionaria o una soluzione; è, consentitemi il termine, una fregatura. Gli scambi di informazioni avvengono in nanosecondi, l'economia globale non ha il tempo di aspettare secondi o minuti di blocco per verifica e quindi propagazione attraverso la rete. Un sostituto del web attuale non dovrebbe essere più lento e più costoso per i consumatori. Il Web 3.0 costa di più e lo nascondono dietro cose come 'è tutto on-chain' e 'costa pochissimo lanciare un'app'. La realtà è che ottieni quello per cui paghi. Il Web 3.0 compensa i costi per gli utenti invece dei servizi, il che si traduce anche in un servizio più scadente. Un altro argomento comune è consentire agli utenti di controllare i propri dati. Questo non è un problema, salutiamo la crittografia omomorfica. Invece di affrontare questo problema solo dalla topologia, dobbiamo innovare in ogni aspetto del web e chiedere di più ai nostri servizi web.  Il problema della topologia del Web è minore rispetto al suo problema di tecnologia obsoleta. Se questi progetti Web 3.0 si preoccupassero di cambiare il Web, si concentrerebbero sui suoi problemi reali.</p>
 <br />
 
-<b>Come il World Wide Web e Core Universal Web funzionano <small>(FASTER)</small></b><br />
+<b>Come FUNZIONANO il World Wide Web e Core Universal Web <small>(VELOCE)</small></b><br />
 <code>RICHIESTA => ELABORAZIONE PREVISTA => REALTÀ</code><br />
 
-<b>Come funziona il "Web 3.0"  <small>(SLOWER)</small></b><br />
+<b>Come funziona il "Web 3.0"  <small>(LENTO)</small></b><br />
 <code>RICHIESTA => ALGORITMO DI CONSENSO => ELABORAZIONE PREVISTA => REALTÀ</code><br />
 <br />
 
