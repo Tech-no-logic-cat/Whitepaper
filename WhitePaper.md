@@ -151,7 +151,7 @@ UNDER CONSTRUCTION
 
 <br />
 
-<img align="center" src="https://sentivate.com/wp-content/uploads/2018/09/hyrbidNetworkTopology.png">
+<img align="center" src="https://user-images.githubusercontent.com/88969904/137623577-42d64ba1-0dd9-484e-9672-98dd6c131437.png">
 <p align="center">TOPOLOGY OVERVIEW SUMMARY COMPARISON</p>
 <p align="center">THE BEST OF BOTH</p>
 <br />
