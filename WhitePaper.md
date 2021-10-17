@@ -160,7 +160,7 @@ UNDER CONSTRUCTION
 
 <br />
 
-<img src="https://sentivate.com/wp-content/uploads/2018/09/DISHyrbid.png" />
+<img src="https://user-images.githubusercontent.com/88969904/137628090-43e6940d-1c10-4e27-bdc3-3abc4c58c366.png" />
 
 <br />
 
