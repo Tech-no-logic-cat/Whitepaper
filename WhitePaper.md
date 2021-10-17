@@ -147,7 +147,7 @@ UNDER CONSTRUCTION
 
 <p>È importante notare che con il termine topologia non ci si riferisce all'architettura fisica della rete. Un progetto fisico sarebbe estremamente complicato, richiederebbe molti dispositivi di rete appositamente progettati e non sarebbe vantaggioso in alcun modo. Nel panorama delle "criptovalute", aziende come Cloudflare e gran parte del Web sono reti definite dal software. Bitcoin è una rete decentralizzata ma è realizzata con il software, non creando una rete fisicamente nuova progettata per essere decentralizzata con router e apparecchiature di rete. La stessa cosa avviene in questo contesto.</p>
 
-<h5>TLDR; Le topologie centralizzate e decentralizzate hanno i loro casi d'uso ma insieme costituiscono una soluzione per un Web migliore.</h5>
+<h5>Le topologie centralizzate e decentralizzate hanno i loro casi d'uso ma insieme costituiscono una soluzione per un Web migliore.</h5>
 
 <br />
 
