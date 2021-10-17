@@ -194,17 +194,17 @@ UNDER CONSTRUCTION
 
 <h4 id="dis">DOMAIN INFORMATION SYSTEM - <small>(DIS)</small></h4>
 
-<p>Il Domain Information System, (DIS), returns domain-specific information in the form of a domain certificate from human-readable hostnames. The DIS returns the domain’s certificate which includes cryptographic details & routing information. By including the hostnames cryptography along with routing information, 0-RTT is possible without requiring the client to have visited the domain prior. This is a unique advantage over TLS 1.3 in that 0-RTT is available by default whereas in TLS 1.3 one would need to have visited the site prior. Before clients connect to a website they must first query the DIS with a human-readable hostname. The DIS has centralized servers and a decentralized network to provide clients with the fastest possible way to access domain certificates</p>
+<p>Il Domain Information System, (DIS), restituisce informazioni specifiche del dominio sotto forma di certificato di dominio da nomi host leggibili. Il DIS restituisce il certificato del dominio che include dettagli crittografici e informazioni di routing. Includendo la crittografia dei nomi host insieme alle informazioni di routing, 0-RTT è possibile senza richiedere che il client abbia visitato il dominio in precedenza. Questo è un vantaggio unico rispetto a TLS 1.3 in quanto 0-RTT è disponibile per impostazione predefinita mentre in TLS 1.3 è necessario aver visitato il sito in precedenza. Prima che i client si connettano a un sito Web, devono prima interrogare il DIS con un nome host leggibile. Il DIS ha server centralizzati e una rete decentralizzata per fornire ai client il modo più veloce possibile per accedere ai certificati di dominio</p>
 
-<p>The DIS acts as another layer of defense from malicious certificate related attacks. When invalid certificates are used to request information from the DIS to go to a service, the DIS simply denies returning a response.</p>
+<p>Il DIS funge da ulteriore livello di difesa da attacchi dannosi relativi ai certificati. Quando vengono utilizzati certificati non validi per richiedere informazioni al DIS per accedere a un servizio, il DIS semplicemente non restituisce una risposta.</p>
 
-<p>The decentralized nodes providing domain certificates have a chance to earn Viat through their services. This functionality will be covered in-depth with the Viat white paper.</p>
+<p>I nodi decentralizzati che forniscono certificati di dominio hanno la possibilità di guadagnare Viat attraverso i loro servizi. Questa funzionalità sarà trattata in modo approfondito con il white paper di Viat.</p>
 
 <br />
 
-<h4 id="dcerts">DOMAIN CERTIFICATES</h4>
+<h4 id="dcerts">CERTIFICATI DI DOMINIO</h4>
 
-<p>Domain certificates provide routing, cryptography, and additional details associated with a hostname. Domain certificates are signed by 3 or more keypairs: Ephemeral, Master, and an authorized Domain Registrar. To establish a successful handshake, the domain certificate and multiple valid signatures are required. Domain certificates can also be linked to a real entity or business if the proper validation procedure is undergone. By linking these two people can easily identify an entity on or offline with something as simple as a QR code.</p>
+<p>I certificati di dominio forniscono routing, crittografia e dettagli aggiuntivi associati ad un hostname. I certificati di dominio sono firmati da 3 o più coppie di chiavi: Ephemeral, Master e un registro di domini autorizzato. Per stabilire un handshake di successo, sono necessari il certificato di dominio e più firme valide. I certificati di dominio possono anche essere collegati a un'entità o un'azienda reale se viene eseguita la corretta procedura di convalida. Collegando queste due persone è possibile identificare facilmente un'entità online o offline con qualcosa di semplice come un codice QR.</p>
 
 <p>An interesting feature of domain certificates is that they could be used as a real-world form of DNS.
 Certificates can be stored in a QR code, displayed as an image, or printed out then displayed on storefronts or shared among people.
