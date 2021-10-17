@@ -152,11 +152,11 @@ UNDER CONSTRUCTION
 <br />
 
 <img align="center" src="https://user-images.githubusercontent.com/88969904/137623577-42d64ba1-0dd9-484e-9672-98dd6c131437.png">
-<p align="center">TOPOLOGY OVERVIEW SUMMARY COMPARISON</p>
-<p align="center">THE BEST OF BOTH</p>
+<p align="center">PANORAMICA E COMPARAZIONE SOMMARIA DELLA TOPOLOGIA</p>
+<p align="center">IL MEGLIO DA ENTRAMBI</p>
 <br />
 
-<p>The WWW doesn't provide a unified way to take advantage of decentralized technology which can enhance its core functions. DNS is an existing function that can take advantage of decentralized technology to expand availability, increase performance, and potentially evade censorship in unfair situations. Delivery of typical static Web assets requires a unified decentralized CDN so that all of the Web can participate. These decentralized options can be incentivized by introducing a natively integrated cryptocurrency hence VIAT. By expanding the Web's topology to incorporate a hybrid approach it can take advantage of the features that come along with such networks yet it can also remain impervious to the downsides of it because it isn't reliant on them. Although the attack surface increases this allows clients and services to simply gravitate or lean on the centralized or decentralized varieties of individual components. Allowing them to remain operational in more scenarios while operating at the best possible performance. For companies this is a huge plus because it could maximize profit scenarios, for example, lowering the number of exits from their platform due to slow pages or the like. As noted above for companies like Amazon this is a multi-million dollar problem.</p>
+<p>Il WWW non fornisce un modo unificato per sfruttare la tecnologia decentralizzata che può migliorare le sue funzioni principali. Il DNS è una funzione esistente che può sfruttare la tecnologia decentralizzata per espandere la disponibilità, aumentare le prestazioni e potenzialmente eludere la censura in situazioni ingiuste. La distribuzione di risorse Web statiche tipiche richiede un CDN decentralizzato unificato in modo che tutto il Web possa accedervi. Queste opzioni decentralizzate possono essere incentivate introducendo una criptovaluta integrata in modo nativo, da cui VIAT che espandendo la topologia del Web per incorporare un approccio ibrido, può sfruttare le funzionalità che accompagnano tali reti, ma può anche rimanere insensibile ai suoi lati negativi perché non dipende da esse. Sebbene la superficie di attacco aumenti, ciò consente ai clients e ai servizi di gravitare o appoggiarsi semplicemente sulle varietà centralizzate o decentralizzate dei singoli componenti consentendo loro di rimanere operativi in più scenari operando con le migliori prestazioni possibili. Per le aziende questo è un enorme vantaggio perché potrebbe massimizzare gli scenari di profitto, ad esempio riducendo il numero di uscite dalla loro piattaforma a causa di pagine lente o simili. Come notato sopra per aziende come Amazon, questo è un problema multimilionario.</p>
 
 <br />
 
@@ -166,7 +166,7 @@ UNDER CONSTRUCTION
 
 <h3>UNIVERSAL DATA STREAM PROTOCOL - <small>(UDSP)</small></h3>
 
-<p><b>UDSP is a UDP based low-latency, real-time, bi-directional, encryption enforced, and reliable Data Transport Protocol. UDSP replaces primarily HTTPS & WebSockets for all data communication on the UW.</b></p>
+<p><b>UDSP è basato su UDP a bassa latenza, tempo reale, bi direzionale, crittografia applicata low-latency, real-time, bi-directional, encryption enforced e l'affidabile Data Transport Protocol. UDSP sostituisce primariamente HTTPS & WebSockets per tutti gli scambi di dati su UW.</b></p>
 
 <p>The first step in the construction of the Universal Web is to replace HTTP entirely with UDSP. On the Universal Web all communication, streaming, or transferring of any type of data utilizes UDSP. When visiting a site on the Universal Web UDSP is the protocol used instead of HTTP. Specific UDSP client and server modules are required to visit or host a website on the Sentivate Network. UDSP is the foundation and blood cells of the Universal Web.</p>
 
