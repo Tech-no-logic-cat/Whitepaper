@@ -256,53 +256,51 @@ Inoltre, esiste una blacklist pubblica supportata da blockchain per i domini e l
 <br />
 <h3 id="UWAs">Universal Web Apps</h3>
 
-<p>Hybrid apps are self-constructing, streaming single-page-applications. Hybrid apps are built using reactive, dynamic, and modular development methodologies. hApps have all the benefits of centralized & decentralized networks ensuring the highest scalability potential.</p>
+<p>Le app ibride sono applicazioni in streaming a pagina singola autocostruite. Le app ibride vengono create utilizzando metodologie di sviluppo reattive, dinamiche e modulari. Le hApp hanno tutti i vantaggi delle reti centralizzate e decentralizzate garantendo il massimo potenziale di scalabilità.</p>
 
-<p>hApps’ assets are contained in their file and are streamed to the client on an as-needed basis. hApps are streamed and built over time much like a bridge-building itself as you walk across. Only one initial page load takes place and thereafter pages are dynamically built as needed similar to Single-page-apps. Only exactly when the client needs the resource is when it will be fetched and delivered.</p>
+<p>Le risorse di hApps sono contenute nel loro file e vengono trasmesse al client solo al momento del bisogno. Le hApp vengono trasmesse in streaming e costruite nel tempo in modo molto simile alla costruzione di un ponte mentre si cammina. Viene eseguito solo un caricamento iniziale della pagina e successivamente le pagine vengono create dinamicamente in base alle esigenze in modo simile alle app a pagina singola. Solo esattamente quando il client ha bisogno della risorsa è il momento in cui sarà recuperata e consegnata.</p>
 
-<p>Sentivate’s components allow for highly modular asset streaming. For example, components can share the same CSS or HTML assets which ensures shared assets are only downloaded once and the duplicate code is never sent over the wire. Server loads and bandwidth is drastically decreased with this methodology as now the client is only pulling exactly what is needed.</p>
+<p>I componenti di Sentivate consentono uno streaming di risorse altamente modulare. Ad esempio, i componenti possono condividere le stesse risorse CSS o HTML il che garantisce che le risorse condivise vengano scaricate una sola volta e che il codice duplicato non venga mai inviato in rete. I carichi del server e la larghezza di banda sono drasticamente ridotti con questa metodologia poiché ora il client sta solo estraendo esattamente ciò che è necessario.</p>
 
-<p>Hybrid Apps can utilize an opt-in decentralized P2P CDN for assets in addition to the destination service. Making use of a Hybrid Content Delivery Network means that hybrid apps have high availability, scalability, and more bandwidth.</p>
+<p>Le app ibride possono utilizzare un CDN P2P decentralizzato opzionabile per le risorse oltre al servizio di destinazione. L'utilizzo di una rete di distribuzione di contenuti ibrida significa che le app ibride hanno elevata disponibilità, scalabilità e maggiore larghezza di banda.</p>
 
-<p>hApps validate, authenticate, and authorize clients automatically during the initial connection handshake. hApps backends can store and reference clients by their public key or full certificates. Think of it as oAuth for the entire Internet. Services no longer need to worry about hashing, storing, and or encrypting passwords. Clients can quickly log in at the click of a button or automatically by simply connecting to the service. Users no longer need to remember or create complex passwords as using their keypair is more secure and easier to use. If services do not require you to have a username they can simply rely on your public key as your identifying name. This means that for some services users don't have to create a username and password during the registration process.</p>
-
+<p>Le hApp convalidano, autenticano e autorizzano i client automaticamente durante l'handshake di connessione iniziale. I backend (lato server) di hApps possono archiviare e fare riferimento ai client tramite la loro chiave pubblica o certificati completi. Consideratelo come oAuth per l'intera Internet. I servizi non devono più preoccuparsi dell'hashing, dell'archiviazione e della crittografia delle password. I client possono accedere rapidamente con un clic o automaticamente collegandosi semplicemente al servizio.hApps validate, authenticate, and authorize clients automatically during the initial connection handshake. hApps backends can store and reference clients by their public key or full certificates. Think of it as oAuth for the entire Internet. Services no longer need to worry about hashing, storing, and or encrypting passwords. Clients can quickly log in at the click of a button or automatically by simply connecting to the service. Gli utenti non devono più ricordare o creare password complesse poiché l'utilizzo della propria coppia di chiavi è più sicuro e più semplice. Se i servizi non richiedono un nome utente, possono semplicemente fare affidamento sulla sua chiave pubblica come nome identificativo. Ciò significa che per alcuni servizi gli utenti non devono creare un nome utente e una password durante il processo di registrazione.</p>
 <br />
 
-<h3><a href="https://github.com/sodium-friends/sodium-native">CRYPTOGRAPHY</a></h3>
+<h3><a href="https://github.com/sodium-friends/sodium-native">CRITTOGRAFIA</a></h3>
 
 -   Key Signatures
     -   Single-part signature: Ed25519
     -   Multi-part signature: Ed25519ph
--   Packet Encryption
-    -   Authenticated Encryption with Additional Data
-    -   Encrypts a message with a key and a nonce to keep it confidential
-    -   Computes an authentication tag. This tag is used to make sure that the message, as well as optional, non-confidential (non-encrypted) data, haven’t been tampered with.
-    -   Encryption: XChaCha20 stream cipher
-    -   Authentication: Poly1305 MAC
--   Hashing - BLAKE2b - Standardized (RFC 7693) secure hash function that is as strong as SHA-3 but faster than SHA-1 and MD5.
-    Unlike MD5, SHA-1 and SHA-256, this function is safe against hash length extension attacks.
--   Key exchange – Shared Session Secret Keys
+-   Crittografia pacchetto
+    -   Crittografia autenticata con dati aggiuntivi
+    -   Crittografa un messaggio con una chiave e un 'nonce' per mantenerlo riservato
+    -   Calcola un tag di autenticazione. Questo tag viene utilizzato per assicurarsi che il messaggio, così come i dati facoltativi non riservati (non crittografati), non siano stati manomessi.
+    -   Autenticazione: Poly1305 MAC
+-   Hashing - BLAKE2b - Standardizzato (RFC 7693) funzione hash sicura forte come SHA-3 ma più veloce di SHA-1 e MD5.
+    A differenza di MD5, SHA-1 e SHA-256, questa funzione è sicura contro gli attacchi di estensione della lunghezza dell'hash.
+-   Scambio di chiavi - chiavi segrete della sessione condivisa
     -   16(MIN), 32 DEFAULT, 64(MAX) BYTES RANGE
         -   BLAKE2B-512
-            -   BLAKE2 is a cryptographic hash function **faster than MD5, SHA-1, SHA-2, and SHA-3**, yet is at least as secure as the latest standard SHA-3
-            -   Optimized for 64-bit platforms—including NEON-enabled ARMs—and produces digests of any size between 1 and 64 bytes
-        -   X25519 – Ephemeral Key Pair
-            -   Computes a secret shared between the sender and receiver, using the sender’s secret key and the receiver’s public key (or vice versa)
+            -   BLAKE2 è una funzione hash crittografica **più veloce di MD5, SHA-1, SHA-2, and SHA-3**, pur rimanendo sicuro almeno quanto SHA-3
+            -   Ottimizzato per piattaforme 64-bit inclusi NEON-enabled ARMs—and produce digest di qualsiasi dimensione tra 1 e 64 byte
+        -   X25519 – Paio di chiavi Ephemeral 
+            -   Calcola un segreto condiviso tra mittente e destinatario, utilizzando la chiave segreta del mittente e la chiave pubblica del destinatario (o viceversa)
 
 <br />
 
 <h3 id="revenueStreams">REVENUE STREAMS - <small>SELF SUSTAINING NETWORK</small></h3>
 
-<p>Much like any network or platform regardless if its servers are in-house or operate in a decentralized network it requires funds for upkeep and implementing new features at the very least. With that said there are a few initial revenue streams designs to scale with network use. As the network grows so do its revenue streams to keep things operating smoothly. The broad revenue categories for the network & company come in these forms: domains, fees, donations, mass compute operations, support, apps, NFT, Viat, contractual work, and custom solutions. A majority of the revenue streams when implemented are largely self-driving and require little to no human interaction or work. Some are billed subscription intervals, some are based on probability, and some are your traditional contractual work. Some have little to no overhead, others require manpower, and some require only hardware. Many options scale with the network and are the most effective over time with minimal overhead. Self-driving revenue options are capable of not only sustaining and growing the network but also provide substantial profit for the company.</p>
+<p>Proprio come qualsiasi rete o piattaforma, indipendentemente dal fatto che i suoi server siano interni o operino in una rete decentralizzata, richiede fondi per la manutenzione e l'implementazione di nuove funzionalità. Detto questo, ci sono alcuni progetti di flussi di entrate iniziali da scalare con l'uso della rete. Man mano che la rete cresce, aumentano anche i suoi flussi di entrate per far funzionare le cose senza intoppi. Le varie categorie di entrate per la rete e l'azienda si presentano in queste forme: domini, commissioni, donazioni, operazioni computative di massa, supporto, apps, NFT, Viat, lavoro contrattuale e soluzioni personalizzate. La maggior parte dei flussi di entrate, quando implementati, sono in gran parte auto-guidati e richiedono poca o nessuna interazione umana o computazionale. Alcune sono abbonamenti fatturati, altre sono basate sulla probabilità e altre sono il vostro lavoro tradizionale. Alcuni hanno un sovraccarico minimo o nullo, altri richiedono manodopera e alcuni richiedono solo hardware. Molte opzioni crescono con la rete e sono le più efficaci nel tempo con un sovraccarico minimo. Le opzioni di guadagno a guida autonoma sono in grado non solo di sostenere e far crescere la rete, ma anche di fornire profitti sostanziali all'azienda.</p>
 
 <p>!UNDER CONSTRUCTION - MARKET SIZE - STATISTICS - EXPECTATIONS - IN-DEPTH REVIEW OF REVENUE STREAM TYPES & options!</p>
 
 <br />
 
 <!--
-<h2>NOTES</h2>
+<h2>NOTE</h2>
 VIAT
-<p>All Viat mining is done with purpose and can take place at multiple points on the Universal Web but is utilitarian in nature to ensure the highest possible transaction throughpout </p>
+<p>Tutto il mining di Viat viene eseguito con uno scopo e può avvenire in più punti su Universal Web, è di natura utilitaristica e serve a garantire il massimo livello di transazione possibile. </p>
 -->
 
 <small>COPYRIGHT © 2021 <a href="https://universalweb.io">UNIVERSAL WEB, Inc</a></small>
