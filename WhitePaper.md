@@ -166,9 +166,9 @@ UNDER CONSTRUCTION
 
 <h3>UNIVERSAL DATA STREAM PROTOCOL - <small>(UDSP)</small></h3>
 
-<p><b>UDSP è basato su UDP a bassa latenza, tempo reale, bi direzionale, crittografia applicata low-latency, real-time, bi-directional, encryption enforced e l'affidabile Data Transport Protocol. UDSP sostituisce primariamente HTTPS & WebSockets per tutti gli scambi di dati su UW.</b></p>
+<p><b>UDSP è basato su UDP a bassa latenza, tempo reale, bi direzionale, crittografia applicata e l'affidabile Data Transport Protocol. UDSP sostituisce primariamente HTTPS & WebSockets per tutti gli scambi di dati su UW.</b></p>
 
-<p>Il primo passo nella costruzione del Web universale consiste nel sostituire completamente HTTP con UDSP. Su Universal Web tutte le comunicazioni, lo streaming o il trasferimento di qualsiasi tipo di dati utilizzano UDSP. Quando si visita un sito su Universal Web il protocollo utilizzato è UDSP invece di HTTP. Per visitare o ospitare un sito Web sulla rete Sentivate sono necessari moduli server e client UDSP specifici. UDSP è il fondamento e le cellule sanguigne del Universal Web.</p>
+<p>Il primo passo nella costruzione di  Universal Web consiste nel sostituire completamente HTTP con UDSP. Su Universal Web tutte le comunicazioni, lo streaming o il trasferimento di qualsiasi tipo di dati utilizzano UDSP. Quando si visita un sito su Universal Web il protocollo utilizzato è UDSP invece di HTTP. Per visitare o ospitare un sito Web sulla rete Sentivate sono necessari moduli server e client UDSP specifici. UDSP è il fondamento e le cellule sanguigne del Universal Web.</p>
 
 <p>UDSP è in grado di offrire un'affidabilità dinamica a livello di connessione o su richiesta concordata tra le parti coinvolte. A differenza di HTTP, UDSP impone la crittografia, il che significa che tutte le connessioni UDSP sono crittografate per impostazione predefinita, senza eccezioni. UDSP supporta IPv6, Multiplexing, Multihoming e Perfect-Forward-Secrecy.</p>
 
